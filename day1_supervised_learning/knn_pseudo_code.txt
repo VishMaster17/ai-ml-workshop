@@ -1,0 +1,8 @@
+Create the dataset
+For each point in the training data, find the straight line distance between the new point and current point
+Store those distances and the label
+Sort all the distances in the increasing order
+Pick the top k closest points
+Get the labels of these k closest points
+Count the frequency of each label
+Return the most frequent label
