@@ -5,5 +5,3 @@ DBSCAN - https://claude.ai/public/artifacts/4914a212-bd6d-4e7a-adcf-aec17f68bcb3
 Heirarchial - https://claude.ai/public/artifacts/fc6b1d39-3cdc-436a-8de1-01b359490703
 
 apriori algo - https://claude.ai/public/artifacts/5046ab45-32a5-406e-b6a1-95b7734b9ed0
-
-gemini api key - AIzaSyDXNCVrk3Iutyhh1N8P7O0EDBjFIc4A47c
